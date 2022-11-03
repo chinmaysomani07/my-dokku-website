@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Tutorial.......',
-  tagline: 'This tutorial is cool.......',
+  title: 'My Dokku Tutorial',
+  tagline: 'This is an awesome tutorial.......',
   url: 'https://github.com',
   baseUrl: '/my-dokku-website/',
   onBrokenLinks: 'throw',
